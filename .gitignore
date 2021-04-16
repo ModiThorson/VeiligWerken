@@ -1,0 +1,22 @@
+#Git ignore, forcing difference to push
+
+Factorium/Library/
+
+Factorium/Temp/
+
+Factorium/.idea/.idea.Factorium/.idea/
+
+Factorium/obj/Debug/
+
+Factorium/Temp/
+Factorium/.vs/
+
+Factorium/Assembly-CSharp.csproj
+
+Builds/Prototype 1.1/
+
+Builds/Prototype 1/
+
+Builds/Prototype 1.5/
+
+Builds/
